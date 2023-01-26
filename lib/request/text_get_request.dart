@@ -1,0 +1,4 @@
+class TextGetRequest
+{
+  int? id;
+}
